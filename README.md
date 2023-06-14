@@ -13,16 +13,16 @@ git clone https://github.com/ChrisGarciaDS/SentimentAnalysis_ProductReviews.git
 * Minsu Kim
 
 ## Methods
-Data exploration
-Pre-processing
-Data visualization
-Descriptive statistics
-Text Mining
-Topic Modeling
-Tokenization
-Word Clouds
-Metrics Comparison
-Future Implications
+* Data exploration
+* Pre-processing
+* Data visualization
+* Descriptive statistics
+* Text Mining
+* Topic Modeling
+* Tokenization
+* Word Clouds
+* Metrics Comparison
+* Future Implications
 
 ## Dataset
 Scraped from

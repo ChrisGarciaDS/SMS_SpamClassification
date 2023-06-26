@@ -1,4 +1,4 @@
-# SpamShield: SMS Spam Classification System
+# Sentiment Analysis: Text Classification 
 
 ## Installation
 To use this project, first clone the repo on your device using the commands below:
